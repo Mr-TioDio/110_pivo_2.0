@@ -11,3 +11,4 @@
 Данный проект станет первым и трудным, но даст нам полезный опыт и наталкнёт на изучение нового.
 
 
+<img width="1080" height="1080" alt="Новый проект" src="https://github.com/user-attachments/assets/3c5bccdf-948d-45e0-b5af-4c32a42e9f35" />
